@@ -2,6 +2,15 @@
 
 This system allows users to interact with data through natural language queries. Typing and spelling errors are tolerated by the system to enhance user experience.
 
+💡 **See AI Agents in Action**  
+Enable the **AI Agentic Report** to activate intelligent agents that auto-analyze the data. [View runtime info](#ai-agentic-report)
+
+## 🖥️ UI Layout
+![Demo Screenshot](autonomous_system.png)
+
+## Try the Autonomous System:
+# [CLICK HERE TO ACCESS THE SYSTEM](https://caf0-2-201-147-71.ngrok-free.app/)
+
 ## Retail Domain
 
 ### Example Queries:
@@ -51,9 +60,3 @@ To optimize computing time and generate Agentic reports faster:
 * The second configuration file for modifying the behavior of all agents is not provided at this time.
 * For both domains: Agentic Report generation may take up to 2 minutes
 
-## Access the System
-
-![Demo Screenshot](autonomous_system.png)
-
-### Try the Autonomous System:
-# [CLICK HERE TO ACCESS THE SYSTEM](https://caf0-2-201-147-71.ngrok-free.app/)
